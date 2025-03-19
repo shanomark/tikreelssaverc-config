@@ -1,5 +1,5 @@
 {
   "iap_config": {
-    "hide_no_watermark": true
+    "hide_no_watermark": false
   }
 }
